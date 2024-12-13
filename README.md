@@ -28,4 +28,4 @@ Live URL: https://torus-admin.netlify.app/
      ```bash
      pnpm dev
      ```
-   - Open your browser and navigate to `http://localhost:3000` to view the application.
+   - Open your browser and navigate to `http://localhost:5173` to view the application.
