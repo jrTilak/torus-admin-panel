@@ -2,6 +2,8 @@
 
 This project is part of the assessment task provided by Torus Innotech Pvt Ltd for the Frontend Developer role.
 
+Live URL: https://torus-admin.netlify.app/
+
 ## Instructions to Run the Project
 
 1. **Install Node.js:**
